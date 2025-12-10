@@ -1,0 +1,112 @@
+[
+  {
+    "vehicle_id": "V08",
+    "timestamp": "2025-12-10T17:59:56.065030",
+    "severity": "Critical",
+    "messages": [
+      {
+        "role": "agent",
+        "message": "We detected critical brake issues. RUL: 7 days.",
+        "timestamp": "2025-12-10T17:59:56.065080"
+      },
+      {
+        "role": "user",
+        "message": "How much will it cost?",
+        "timestamp": "2025-12-10T18:00:26.065088"
+      },
+      {
+        "role": "agent",
+        "message": "Estimated cost: \u20b97370. We can schedule service today.",
+        "timestamp": "2025-12-10T18:00:41.065119"
+      }
+    ]
+  },
+  {
+    "vehicle_id": "V02",
+    "timestamp": "2025-12-10T17:59:56.065147",
+    "severity": "Moderate",
+    "messages": [
+      {
+        "role": "agent",
+        "message": "Moderate brake wear detected. Estimated repair: \u20b94815.",
+        "timestamp": "2025-12-10T17:59:56.065169"
+      },
+      {
+        "role": "user",
+        "message": "What parts need replacement?",
+        "timestamp": "2025-12-10T18:00:26.065175"
+      },
+      {
+        "role": "agent",
+        "message": "Required: Brake pads, Brake fluid. Service time: 2 hours.",
+        "timestamp": "2025-12-10T18:00:41.065195"
+      }
+    ]
+  },
+  {
+    "vehicle_id": "V03",
+    "timestamp": "2025-12-10T17:59:56.065210",
+    "severity": "Moderate",
+    "messages": [
+      {
+        "role": "agent",
+        "message": "Moderate brake wear detected. Estimated repair: \u20b94475.",
+        "timestamp": "2025-12-10T17:59:56.065222"
+      },
+      {
+        "role": "user",
+        "message": "What parts need replacement?",
+        "timestamp": "2025-12-10T18:00:26.065227"
+      },
+      {
+        "role": "agent",
+        "message": "Required: Brake pads, Brake fluid. Service time: 2 hours.",
+        "timestamp": "2025-12-10T18:00:41.065239"
+      }
+    ]
+  },
+  {
+    "vehicle_id": "V04",
+    "timestamp": "2025-12-10T17:59:56.065249",
+    "severity": "Moderate",
+    "messages": [
+      {
+        "role": "agent",
+        "message": "Your brake needs attention soon. Service recommended within 25 days.",
+        "timestamp": "2025-12-10T17:59:56.065260"
+      },
+      {
+        "role": "user",
+        "message": "Can I schedule for next week?",
+        "timestamp": "2025-12-10T18:00:26.065264"
+      },
+      {
+        "role": "agent",
+        "message": "Yes, we have slots available. Shall I book one for you?",
+        "timestamp": "2025-12-10T18:00:41.065275"
+      }
+    ]
+  },
+  {
+    "vehicle_id": "V09",
+    "timestamp": "2025-12-10T17:59:56.065285",
+    "severity": "Moderate",
+    "messages": [
+      {
+        "role": "agent",
+        "message": "Your brake needs attention soon. Service recommended within 23 days.",
+        "timestamp": "2025-12-10T17:59:56.065296"
+      },
+      {
+        "role": "user",
+        "message": "Can I schedule for next week?",
+        "timestamp": "2025-12-10T18:00:26.065300"
+      },
+      {
+        "role": "agent",
+        "message": "Yes, we have slots available. Shall I book one for you?",
+        "timestamp": "2025-12-10T18:00:41.065311"
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "rca_example": {
+    "incident_id": "RCA_2024_001",
+    "issue": "Battery voltage drop in V01-V05 batch",
+    "root_cause": "Supplier quality issue - Terminal corrosion in batch QX2024",
+    "affected_vehicles": [
+      "V01",
+      "V02",
+      "V03"
+    ],
+    "analysis": "Chemical analysis reveals improper coating on battery terminals leading to accelerated corrosion",
+    "evidence": [
+      "Lab test results showing coating thickness 20% below spec",
+      "Supplier audit findings",
+      "Field failure correlation"
+    ]
+  },
+  "capa_example": {
+    "action_id": "CAPA_2024_001",
+    "corrective_action": "Replace all affected batteries from batch QX2024",
+    "preventive_action": "Enhanced incoming quality inspection for battery terminals",
+    "responsible": "Quality Team",
+    "deadline": "2026-01-09",
+    "status": "IN_PROGRESS",
+    "verification": "Inspect next 100 batteries for coating thickness"
+  },
+  "quality_metrics": {
+    "defect_rate": 0.023,
+    "batch_rejection": 2,
+    "supplier_score": 87.5,
+    "trend": "improving"
+  },
+  "generated_at": "2025-12-10T17:59:56.069937"
+}

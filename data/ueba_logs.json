@@ -1,0 +1,54 @@
+{
+  "allowed_actions": [
+    {
+      "agent": "CustomerAgent",
+      "action": "READ",
+      "resource": "dialogue_history",
+      "status": "ALLOWED",
+      "reason": "Agent has read permission for customer dialogue"
+    },
+    {
+      "agent": "DiagnosisAgent",
+      "action": "READ",
+      "resource": "telematics_data",
+      "status": "ALLOWED",
+      "reason": "Required for diagnosis generation"
+    },
+    {
+      "agent": "SchedulingAgent",
+      "action": "WRITE",
+      "resource": "booking_slots",
+      "status": "ALLOWED",
+      "reason": "Agent manages scheduling"
+    }
+  ],
+  "blocked_actions": [
+    {
+      "agent": "DiagnosisAgent",
+      "action": "READ",
+      "resource": "booking_slots",
+      "status": "BLOCKED",
+      "reason": "Diagnosis agent should not access booking data",
+      "severity": "MEDIUM"
+    },
+    {
+      "agent": "SchedulingAgent",
+      "action": "MODIFY",
+      "resource": "telematics_data",
+      "status": "BLOCKED",
+      "reason": "Scheduling agent cannot modify sensor data",
+      "severity": "HIGH"
+    },
+    {
+      "agent": "CustomerAgent",
+      "action": "DELETE",
+      "resource": "maintenance_records",
+      "status": "BLOCKED",
+      "reason": "Customer agent lacks delete permissions",
+      "severity": "CRITICAL"
+    }
+  ],
+  "total_events": 6,
+  "blocked_count": 3,
+  "generated_at": "2025-12-10T17:59:56.074144"
+}

@@ -1,0 +1,172 @@
+{
+  "forecast_7_days": [
+    {
+      "date": "2025-12-10",
+      "predicted_load": 14,
+      "base_load": 12,
+      "risk_based_addition": 2
+    },
+    {
+      "date": "2025-12-11",
+      "predicted_load": 12,
+      "base_load": 10,
+      "risk_based_addition": 2
+    },
+    {
+      "date": "2025-12-12",
+      "predicted_load": 10,
+      "base_load": 8,
+      "risk_based_addition": 2
+    },
+    {
+      "date": "2025-12-13",
+      "predicted_load": 13,
+      "base_load": 11,
+      "risk_based_addition": 2
+    },
+    {
+      "date": "2025-12-14",
+      "predicted_load": 7,
+      "base_load": 5,
+      "risk_based_addition": 2
+    },
+    {
+      "date": "2025-12-15",
+      "predicted_load": 9,
+      "base_load": 7,
+      "risk_based_addition": 2
+    },
+    {
+      "date": "2025-12-16",
+      "predicted_load": 8,
+      "base_load": 6,
+      "risk_based_addition": 2
+    }
+  ],
+  "forecast_30_days": [
+    {
+      "date": "2025-12-10",
+      "predicted_load": 8
+    },
+    {
+      "date": "2025-12-11",
+      "predicted_load": 15
+    },
+    {
+      "date": "2025-12-12",
+      "predicted_load": 10
+    },
+    {
+      "date": "2025-12-13",
+      "predicted_load": 9
+    },
+    {
+      "date": "2025-12-14",
+      "predicted_load": 10
+    },
+    {
+      "date": "2025-12-15",
+      "predicted_load": 4
+    },
+    {
+      "date": "2025-12-16",
+      "predicted_load": 12
+    },
+    {
+      "date": "2025-12-17",
+      "predicted_load": 9
+    },
+    {
+      "date": "2025-12-18",
+      "predicted_load": 10
+    },
+    {
+      "date": "2025-12-19",
+      "predicted_load": 10
+    },
+    {
+      "date": "2025-12-20",
+      "predicted_load": 12
+    },
+    {
+      "date": "2025-12-21",
+      "predicted_load": 7
+    },
+    {
+      "date": "2025-12-22",
+      "predicted_load": 7
+    },
+    {
+      "date": "2025-12-23",
+      "predicted_load": 9
+    },
+    {
+      "date": "2025-12-24",
+      "predicted_load": 13
+    },
+    {
+      "date": "2025-12-25",
+      "predicted_load": 12
+    },
+    {
+      "date": "2025-12-26",
+      "predicted_load": 11
+    },
+    {
+      "date": "2025-12-27",
+      "predicted_load": 11
+    },
+    {
+      "date": "2025-12-28",
+      "predicted_load": 15
+    },
+    {
+      "date": "2025-12-29",
+      "predicted_load": 10
+    },
+    {
+      "date": "2025-12-30",
+      "predicted_load": 9
+    },
+    {
+      "date": "2025-12-31",
+      "predicted_load": 16
+    },
+    {
+      "date": "2026-01-01",
+      "predicted_load": 11
+    },
+    {
+      "date": "2026-01-02",
+      "predicted_load": 16
+    },
+    {
+      "date": "2026-01-03",
+      "predicted_load": 14
+    },
+    {
+      "date": "2026-01-04",
+      "predicted_load": 7
+    },
+    {
+      "date": "2026-01-05",
+      "predicted_load": 10
+    },
+    {
+      "date": "2026-01-06",
+      "predicted_load": 11
+    },
+    {
+      "date": "2026-01-07",
+      "predicted_load": 13
+    },
+    {
+      "date": "2026-01-08",
+      "predicted_load": 14
+    }
+  ],
+  "total_vehicles": 10,
+  "critical_vehicles": 1,
+  "moderate_vehicles": 6,
+  "generated_at": "2025-12-10T17:59:56.054240"
+}

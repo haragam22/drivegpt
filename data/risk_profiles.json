@@ -1,0 +1,203 @@
+[
+  {
+    "vehicle_id": "V08",
+    "risk_profile": {
+      "overall_risk": 0.85,
+      "engine_risk": 0.5411875813786565,
+      "battery_risk": 0.09331754735010499,
+      "brake_risk": 0.9985610407253078,
+      "tyre_risk": 0.00353703938898514
+    },
+    "severity": "Critical",
+    "evidence": [
+      "All systems normal"
+    ],
+    "metrics": {
+      "engine_temp": 90.41187581378657,
+      "battery_voltage": 13.606308991650373,
+      "brake_wear": 0.6997122081450615,
+      "total_km": 176.851969449257
+    }
+  },
+  {
+    "vehicle_id": "V02",
+    "risk_profile": {
+      "overall_risk": 0.4574102340072073,
+      "engine_risk": 0.5727653648807121,
+      "battery_risk": 0.3483222779814585,
+      "brake_risk": 0.6733293284424176,
+      "tyre_risk": 0.0036369331696414157
+    },
+    "severity": "Moderate",
+    "evidence": [
+      "All systems normal"
+    ],
+    "metrics": {
+      "engine_temp": 90.72765364880712,
+      "battery_voltage": 12.765570034234893,
+      "brake_wear": 0.6346658656884835,
+      "total_km": 181.84665848207078
+    }
+  },
+  {
+    "vehicle_id": "V03",
+    "risk_profile": {
+      "overall_risk": 0.39044789793524287,
+      "engine_risk": 0.4959273383320337,
+      "battery_risk": 0.21048107657138912,
+      "brake_risk": 0.7144271595746529,
+      "tyre_risk": 0.0031952080411434872
+    },
+    "severity": "Moderate",
+    "evidence": [
+      "brake_wear_critical",
+      "brake_wear_abnormal"
+    ],
+    "metrics": {
+      "engine_temp": 89.95927338332034,
+      "battery_voltage": 13.231187365165663,
+      "brake_wear": 0.7143281478723958,
+      "total_km": 159.76040205717436
+    }
+  },
+  {
+    "vehicle_id": "V04",
+    "risk_profile": {
+      "overall_risk": 0.3451338902381589,
+      "engine_risk": 0.48882581744367143,
+      "battery_risk": 0.07290107791007674,
+      "brake_risk": 0.7411646999526711,
+      "tyre_risk": 0.0029653687381278725
+    },
+    "severity": "Moderate",
+    "evidence": [
+      "brake_wear_critical"
+    ],
+    "metrics": {
+      "engine_temp": 89.88825817443671,
+      "battery_voltage": 13.44220066874478,
+      "brake_wear": 0.7223494099858013,
+      "total_km": 148.26843690639362
+    }
+  },
+  {
+    "vehicle_id": "V09",
+    "risk_profile": {
+      "overall_risk": 0.3412613916972288,
+      "engine_risk": 0.5220418270425966,
+      "battery_risk": 0.027746216687067383,
+      "brake_risk": 0.7312108501158195,
+      "tyre_risk": 0.02593406368682496
+    },
+    "severity": "Moderate",
+    "evidence": [
+      "brake_wear_critical"
+    ],
+    "metrics": {
+      "engine_temp": 90.22041827042597,
+      "battery_voltage": 14.046254719610864,
+      "brake_wear": 0.7193632550347459,
+      "total_km": 1296.7031843412478
+    }
+  },
+  {
+    "vehicle_id": "V05",
+    "risk_profile": {
+      "overall_risk": 0.33140183074756757,
+      "engine_risk": 0.5370842655649384,
+      "battery_risk": 0.10746228449548542,
+      "brake_risk": 0.5270776934327588,
+      "tyre_risk": 0.003949995398674655
+    },
+    "severity": "Moderate",
+    "evidence": [
+      "All systems normal"
+    ],
+    "metrics": {
+      "engine_temp": 90.37084265564938,
+      "battery_voltage": 13.075461397146288,
+      "brake_wear": 0.6054155386865517,
+      "total_km": 197.49976993373275
+    }
+  },
+  {
+    "vehicle_id": "V06",
+    "risk_profile": {
+      "overall_risk": 0.30505204201165764,
+      "engine_risk": 0.5070332612651469,
+      "battery_risk": 0.156297023390057,
+      "brake_risk": 0.362942216783761,
+      "tyre_risk": 0.0029799902558408213
+    },
+    "severity": "Moderate",
+    "evidence": [
+      "brake_wear_abnormal"
+    ],
+    "metrics": {
+      "engine_temp": 90.07033261265147,
+      "battery_voltage": 13.2405740438246,
+      "brake_wear": 0.5646821175482484,
+      "total_km": 148.99951279204106
+    }
+  },
+  {
+    "vehicle_id": "V01",
+    "risk_profile": {
+      "overall_risk": 0.29826908942879304,
+      "engine_risk": 0.5401450772519496,
+      "battery_risk": 0.0766262371701183,
+      "brake_risk": 0.39289904081819105,
+      "tyre_risk": 0.03819321217431105
+    },
+    "severity": "Routine",
+    "evidence": [
+      "All systems normal"
+    ],
+    "metrics": {
+      "engine_temp": 90.4014507725195,
+      "battery_voltage": 14.203951591625074,
+      "brake_wear": 0.2271052639958781,
+      "total_km": 1909.6606087155524
+    }
+  },
+  {
+    "vehicle_id": "V10",
+    "risk_profile": {
+      "overall_risk": 0.2945983603126642,
+      "engine_risk": 0.5043901536681247,
+      "battery_risk": 0.10807296338515443,
+      "brake_risk": 0.3929228924520025,
+      "tyre_risk": 0.016516908536159898
+    },
+    "severity": "Routine",
+    "evidence": [
+      "All systems normal"
+    ],
+    "metrics": {
+      "engine_temp": 90.04390153668125,
+      "battery_voltage": 14.40439406856372,
+      "brake_wear": 0.2928674203806659,
+      "total_km": 825.845426807995
+    }
+  },
+  {
+    "vehicle_id": "V07",
+    "risk_profile": {
+      "overall_risk": 0.19713992857376172,
+      "engine_risk": 0.52870618858814,
+      "battery_risk": 0.026489131828537144,
+      "brake_risk": 0.0,
+      "tyre_risk": 0.028215664279247286
+    },
+    "severity": "Routine",
+    "evidence": [
+      "All systems normal"
+    ],
+    "metrics": {
+      "engine_temp": 90.2870618858814,
+      "battery_voltage": 14.315007308166075,
+      "brake_wear": 0.3499413564549213,
+      "total_km": 1410.7832139623642
+    }
+  }
+]

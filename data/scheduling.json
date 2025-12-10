@@ -1,0 +1,439 @@
+{
+  "slots": [
+    {
+      "slot_id": "SLOT_001",
+      "center": "Center_North",
+      "date": "2025-12-10",
+      "time": "9:00",
+      "available": false,
+      "assigned_vehicle": "V08"
+    },
+    {
+      "slot_id": "SLOT_002",
+      "center": "Center_North",
+      "date": "2025-12-10",
+      "time": "11:00",
+      "available": false,
+      "assigned_vehicle": "V09"
+    },
+    {
+      "slot_id": "SLOT_003",
+      "center": "Center_North",
+      "date": "2025-12-10",
+      "time": "14:00",
+      "available": false,
+      "assigned_vehicle": "V03"
+    },
+    {
+      "slot_id": "SLOT_004",
+      "center": "Center_North",
+      "date": "2025-12-10",
+      "time": "16:00",
+      "available": false,
+      "assigned_vehicle": "V05"
+    },
+    {
+      "slot_id": "SLOT_005",
+      "center": "Center_North",
+      "date": "2025-12-11",
+      "time": "9:00",
+      "available": false,
+      "assigned_vehicle": "V02"
+    },
+    {
+      "slot_id": "SLOT_006",
+      "center": "Center_North",
+      "date": "2025-12-11",
+      "time": "11:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_007",
+      "center": "Center_North",
+      "date": "2025-12-11",
+      "time": "14:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_008",
+      "center": "Center_North",
+      "date": "2025-12-11",
+      "time": "16:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_009",
+      "center": "Center_North",
+      "date": "2025-12-12",
+      "time": "9:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_010",
+      "center": "Center_North",
+      "date": "2025-12-12",
+      "time": "11:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_011",
+      "center": "Center_North",
+      "date": "2025-12-12",
+      "time": "14:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_012",
+      "center": "Center_North",
+      "date": "2025-12-12",
+      "time": "16:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_013",
+      "center": "Center_South",
+      "date": "2025-12-10",
+      "time": "9:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_014",
+      "center": "Center_South",
+      "date": "2025-12-10",
+      "time": "11:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_015",
+      "center": "Center_South",
+      "date": "2025-12-10",
+      "time": "14:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_016",
+      "center": "Center_South",
+      "date": "2025-12-10",
+      "time": "16:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_017",
+      "center": "Center_South",
+      "date": "2025-12-11",
+      "time": "9:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_018",
+      "center": "Center_South",
+      "date": "2025-12-11",
+      "time": "11:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_019",
+      "center": "Center_South",
+      "date": "2025-12-11",
+      "time": "14:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_020",
+      "center": "Center_South",
+      "date": "2025-12-11",
+      "time": "16:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_021",
+      "center": "Center_South",
+      "date": "2025-12-12",
+      "time": "9:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_022",
+      "center": "Center_South",
+      "date": "2025-12-12",
+      "time": "11:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_023",
+      "center": "Center_South",
+      "date": "2025-12-12",
+      "time": "14:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_024",
+      "center": "Center_South",
+      "date": "2025-12-12",
+      "time": "16:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_025",
+      "center": "Center_East",
+      "date": "2025-12-10",
+      "time": "9:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_026",
+      "center": "Center_East",
+      "date": "2025-12-10",
+      "time": "11:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_027",
+      "center": "Center_East",
+      "date": "2025-12-10",
+      "time": "14:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_028",
+      "center": "Center_East",
+      "date": "2025-12-10",
+      "time": "16:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_029",
+      "center": "Center_East",
+      "date": "2025-12-11",
+      "time": "9:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_030",
+      "center": "Center_East",
+      "date": "2025-12-11",
+      "time": "11:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_031",
+      "center": "Center_East",
+      "date": "2025-12-11",
+      "time": "14:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_032",
+      "center": "Center_East",
+      "date": "2025-12-11",
+      "time": "16:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_033",
+      "center": "Center_East",
+      "date": "2025-12-12",
+      "time": "9:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_034",
+      "center": "Center_East",
+      "date": "2025-12-12",
+      "time": "11:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_035",
+      "center": "Center_East",
+      "date": "2025-12-12",
+      "time": "14:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_036",
+      "center": "Center_East",
+      "date": "2025-12-12",
+      "time": "16:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_037",
+      "center": "Center_West",
+      "date": "2025-12-10",
+      "time": "9:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_038",
+      "center": "Center_West",
+      "date": "2025-12-10",
+      "time": "11:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_039",
+      "center": "Center_West",
+      "date": "2025-12-10",
+      "time": "14:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_040",
+      "center": "Center_West",
+      "date": "2025-12-10",
+      "time": "16:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_041",
+      "center": "Center_West",
+      "date": "2025-12-11",
+      "time": "9:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_042",
+      "center": "Center_West",
+      "date": "2025-12-11",
+      "time": "11:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_043",
+      "center": "Center_West",
+      "date": "2025-12-11",
+      "time": "14:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_044",
+      "center": "Center_West",
+      "date": "2025-12-11",
+      "time": "16:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_045",
+      "center": "Center_West",
+      "date": "2025-12-12",
+      "time": "9:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_046",
+      "center": "Center_West",
+      "date": "2025-12-12",
+      "time": "11:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_047",
+      "center": "Center_West",
+      "date": "2025-12-12",
+      "time": "14:00",
+      "available": true,
+      "assigned_vehicle": null
+    },
+    {
+      "slot_id": "SLOT_048",
+      "center": "Center_West",
+      "date": "2025-12-12",
+      "time": "16:00",
+      "available": true,
+      "assigned_vehicle": null
+    }
+  ],
+  "assignments": [
+    {
+      "vehicle_id": "V08",
+      "slot_id": "SLOT_001",
+      "center": "Center_North",
+      "date": "2025-12-10",
+      "time": "9:00",
+      "priority": "URGENT",
+      "confirmed": true
+    },
+    {
+      "vehicle_id": "V09",
+      "slot_id": "SLOT_002",
+      "center": "Center_North",
+      "date": "2025-12-10",
+      "time": "11:00",
+      "priority": "HIGH",
+      "confirmed": true
+    },
+    {
+      "vehicle_id": "V03",
+      "slot_id": "SLOT_003",
+      "center": "Center_North",
+      "date": "2025-12-10",
+      "time": "14:00",
+      "priority": "HIGH",
+      "confirmed": true
+    },
+    {
+      "vehicle_id": "V05",
+      "slot_id": "SLOT_004",
+      "center": "Center_North",
+      "date": "2025-12-10",
+      "time": "16:00",
+      "priority": "HIGH",
+      "confirmed": true
+    },
+    {
+      "vehicle_id": "V02",
+      "slot_id": "SLOT_005",
+      "center": "Center_North",
+      "date": "2025-12-11",
+      "time": "9:00",
+      "priority": "HIGH",
+      "confirmed": true
+    }
+  ],
+  "total_slots": 48,
+  "booked_slots": 5,
+  "available_slots": 43,
+  "generated_at": "2025-12-10T17:59:56.059549"
+}

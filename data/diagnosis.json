@@ -1,0 +1,172 @@
+[
+  {
+    "vehicle_id": "V08",
+    "diagnosis": "Brake pad wear",
+    "severity": "Critical",
+    "rul_days": 7,
+    "urgency": "IMMEDIATE",
+    "required_parts": [
+      "Brake pads",
+      "Brake fluid",
+      "Rotor inspection"
+    ],
+    "estimated_cost": 7370,
+    "service_time_hours": 2,
+    "risk_score": 0.999,
+    "primary_issue": "brake",
+    "generated_at": "2025-12-10T17:59:56.040013"
+  },
+  {
+    "vehicle_id": "V02",
+    "diagnosis": "Brake pad wear",
+    "severity": "Moderate",
+    "rul_days": 29,
+    "urgency": "SOON",
+    "required_parts": [
+      "Brake pads",
+      "Brake fluid",
+      "Rotor inspection"
+    ],
+    "estimated_cost": 4815,
+    "service_time_hours": 2,
+    "risk_score": 0.673,
+    "primary_issue": "brake",
+    "generated_at": "2025-12-10T17:59:56.040054"
+  },
+  {
+    "vehicle_id": "V03",
+    "diagnosis": "Brake pad wear",
+    "severity": "Moderate",
+    "rul_days": 27,
+    "urgency": "SOON",
+    "required_parts": [
+      "Brake pads",
+      "Brake fluid",
+      "Rotor inspection"
+    ],
+    "estimated_cost": 4475,
+    "service_time_hours": 2,
+    "risk_score": 0.714,
+    "primary_issue": "brake",
+    "generated_at": "2025-12-10T17:59:56.040070"
+  },
+  {
+    "vehicle_id": "V04",
+    "diagnosis": "Brake pad wear",
+    "severity": "Moderate",
+    "rul_days": 25,
+    "urgency": "SOON",
+    "required_parts": [
+      "Brake pads",
+      "Brake fluid",
+      "Rotor inspection"
+    ],
+    "estimated_cost": 6110,
+    "service_time_hours": 2,
+    "risk_score": 0.741,
+    "primary_issue": "brake",
+    "generated_at": "2025-12-10T17:59:56.040082"
+  },
+  {
+    "vehicle_id": "V09",
+    "diagnosis": "Brake pad wear",
+    "severity": "Moderate",
+    "rul_days": 23,
+    "urgency": "SOON",
+    "required_parts": [
+      "Brake pads",
+      "Brake fluid",
+      "Rotor inspection"
+    ],
+    "estimated_cost": 7578,
+    "service_time_hours": 2,
+    "risk_score": 0.731,
+    "primary_issue": "brake",
+    "generated_at": "2025-12-10T17:59:56.040092"
+  },
+  {
+    "vehicle_id": "V05",
+    "diagnosis": "Engine overheating risk",
+    "severity": "Moderate",
+    "rul_days": 11,
+    "urgency": "SOON",
+    "required_parts": [
+      "Coolant replacement",
+      "Thermostat",
+      "Radiator check"
+    ],
+    "estimated_cost": 19436,
+    "service_time_hours": 3,
+    "risk_score": 0.537,
+    "primary_issue": "engine",
+    "generated_at": "2025-12-10T17:59:56.040105"
+  },
+  {
+    "vehicle_id": "V06",
+    "diagnosis": "Engine overheating risk",
+    "severity": "Moderate",
+    "rul_days": 20,
+    "urgency": "SOON",
+    "required_parts": [
+      "Coolant replacement",
+      "Thermostat",
+      "Radiator check"
+    ],
+    "estimated_cost": 19684,
+    "service_time_hours": 3,
+    "risk_score": 0.507,
+    "primary_issue": "engine",
+    "generated_at": "2025-12-10T17:59:56.040118"
+  },
+  {
+    "vehicle_id": "V01",
+    "diagnosis": "Engine overheating risk",
+    "severity": "Routine",
+    "rul_days": 46,
+    "urgency": "ROUTINE",
+    "required_parts": [
+      "Coolant replacement",
+      "Thermostat",
+      "Radiator check"
+    ],
+    "estimated_cost": 12061,
+    "service_time_hours": 3,
+    "risk_score": 0.54,
+    "primary_issue": "engine",
+    "generated_at": "2025-12-10T17:59:56.040128"
+  },
+  {
+    "vehicle_id": "V10",
+    "diagnosis": "Engine overheating risk",
+    "severity": "Routine",
+    "rul_days": 49,
+    "urgency": "ROUTINE",
+    "required_parts": [
+      "Coolant replacement",
+      "Thermostat",
+      "Radiator check"
+    ],
+    "estimated_cost": 16734,
+    "service_time_hours": 3,
+    "risk_score": 0.504,
+    "primary_issue": "engine",
+    "generated_at": "2025-12-10T17:59:56.040137"
+  },
+  {
+    "vehicle_id": "V07",
+    "diagnosis": "Engine overheating risk",
+    "severity": "Routine",
+    "rul_days": 40,
+    "urgency": "ROUTINE",
+    "required_parts": [
+      "Coolant replacement",
+      "Thermostat",
+      "Radiator check"
+    ],
+    "estimated_cost": 14956,
+    "service_time_hours": 3,
+    "risk_score": 0.529,
+    "primary_issue": "engine",
+    "generated_at": "2025-12-10T17:59:56.040154"
+  }
+]

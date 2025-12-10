@@ -1,0 +1,122 @@
+[
+  {
+    "vehicle_id": "V08",
+    "priority_score": 105.0,
+    "category": "URGENT",
+    "severity": "Critical",
+    "base_risk_score": 85.0,
+    "fleet_bonus": 10,
+    "customer_tier": "SILVER",
+    "tier_bonus": 10,
+    "is_fleet": true,
+    "generated_at": "2025-12-10T17:59:56.056356"
+  },
+  {
+    "vehicle_id": "V09",
+    "priority_score": 59.13,
+    "category": "HIGH",
+    "severity": "Moderate",
+    "base_risk_score": 34.13,
+    "fleet_bonus": 10,
+    "customer_tier": "GOLD",
+    "tier_bonus": 15,
+    "is_fleet": true,
+    "generated_at": "2025-12-10T17:59:56.056484"
+  },
+  {
+    "vehicle_id": "V03",
+    "priority_score": 59.04,
+    "category": "HIGH",
+    "severity": "Moderate",
+    "base_risk_score": 39.04,
+    "fleet_bonus": 10,
+    "customer_tier": "SILVER",
+    "tier_bonus": 10,
+    "is_fleet": true,
+    "generated_at": "2025-12-10T17:59:56.056459"
+  },
+  {
+    "vehicle_id": "V05",
+    "priority_score": 58.14,
+    "category": "HIGH",
+    "severity": "Moderate",
+    "base_risk_score": 33.14,
+    "fleet_bonus": 10,
+    "customer_tier": "GOLD",
+    "tier_bonus": 15,
+    "is_fleet": true,
+    "generated_at": "2025-12-10T17:59:56.056496"
+  },
+  {
+    "vehicle_id": "V02",
+    "priority_score": 55.74,
+    "category": "HIGH",
+    "severity": "Moderate",
+    "base_risk_score": 45.74,
+    "fleet_bonus": 10,
+    "customer_tier": "REGULAR",
+    "tier_bonus": 0,
+    "is_fleet": true,
+    "generated_at": "2025-12-10T17:59:56.056442"
+  },
+  {
+    "vehicle_id": "V04",
+    "priority_score": 49.51,
+    "category": "NORMAL",
+    "severity": "Moderate",
+    "base_risk_score": 34.51,
+    "fleet_bonus": 10,
+    "customer_tier": "BRONZE",
+    "tier_bonus": 5,
+    "is_fleet": true,
+    "generated_at": "2025-12-10T17:59:56.056472"
+  },
+  {
+    "vehicle_id": "V06",
+    "priority_score": 45.51,
+    "category": "NORMAL",
+    "severity": "Moderate",
+    "base_risk_score": 30.51,
+    "fleet_bonus": 10,
+    "customer_tier": "BRONZE",
+    "tier_bonus": 5,
+    "is_fleet": true,
+    "generated_at": "2025-12-10T17:59:56.056508"
+  },
+  {
+    "vehicle_id": "V01",
+    "priority_score": 39.83,
+    "category": "NORMAL",
+    "severity": "Routine",
+    "base_risk_score": 29.83,
+    "fleet_bonus": 0,
+    "customer_tier": "SILVER",
+    "tier_bonus": 10,
+    "is_fleet": false,
+    "generated_at": "2025-12-10T17:59:56.056520"
+  },
+  {
+    "vehicle_id": "V07",
+    "priority_score": 29.71,
+    "category": "NORMAL",
+    "severity": "Routine",
+    "base_risk_score": 19.71,
+    "fleet_bonus": 0,
+    "customer_tier": "SILVER",
+    "tier_bonus": 10,
+    "is_fleet": false,
+    "generated_at": "2025-12-10T17:59:56.056544"
+  },
+  {
+    "vehicle_id": "V10",
+    "priority_score": 29.46,
+    "category": "NORMAL",
+    "severity": "Routine",
+    "base_risk_score": 29.46,
+    "fleet_bonus": 0,
+    "customer_tier": "REGULAR",
+    "tier_bonus": 0,
+    "is_fleet": false,
+    "generated_at": "2025-12-10T17:59:56.056532"
+  }
+]
